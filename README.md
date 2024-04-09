@@ -1,0 +1,2 @@
+# djngo_server_test
+django_server_details_build
